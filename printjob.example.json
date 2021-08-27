@@ -1,0 +1,18 @@
+{
+    "$schema": "https://github.com/nuxis/p0sx-print/printjob.schema.json",
+    "jobId": 123,
+    "jobType": "receipt",
+    "register": "bgb",
+    "customerId": "007",
+    "orderId": 666,
+    "joblines": [
+        {
+            "lineItem": "Polarburger",
+            "lineAmount": 40
+        },
+        {
+            "lineItem": "Brus",
+            "lineAmount": 10
+        }
+    ]
+}
